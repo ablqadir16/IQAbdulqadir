@@ -1,0 +1,68 @@
+[
+  {
+    "Name": "Abdulqadir",
+    "Designation": "SSE",
+    "JoiningDate": "2019-01-06T17:16:41",
+    "FullAddress": "6125 way,Muscat,Oman,112",
+    "Street": "6125 way",
+    "State": "Muscat",
+    "Country": "Oman",
+    "Pincode": "112",
+    "ImagePath": "images/users/user1.png"
+  },
+  {
+    "Name": "Khanji",
+    "Designation": "SSE",
+    "JoiningDate": "2019-01-06T17:16:42",
+    "FullAddress": "6126 way,Muscat,Oman,113",
+    "Street": "6126 way",
+    "State": "Muscat",
+    "Country": "Oman",
+    "Pincode": "113",
+    "ImagePath": "images/users/user2.png"
+  },
+  {
+    "Name": "Qadir",
+    "Designation": "SSE",
+    "JoiningDate": "2019-01-06T17:16:43",
+    "FullAddress": "6127 way,Muscat,Oman,114",
+    "Street": "6127 way",
+    "State": "Muscat",
+    "Country": "Oman",
+    "Pincode": "114",
+    "ImagePath": "images/users/user3.png"
+  },
+  {
+    "Name": "ABC",
+    "Designation": "SSE",
+    "JoiningDate": "2019-01-06T17:16:41",
+    "FullAddress": "6125 way,Muscat,Oman,112",
+    "Street": "6125 way",
+    "State": "Muscat",
+    "Country": "Oman",
+    "Pincode": "115",
+    "ImagePath": "images/users/user1.png"
+  },
+  {
+    "Name": "PQR",
+    "Designation": "SSE",
+    "JoiningDate": "2019-01-06T17:16:42",
+    "FullAddress": "6126 way,Muscat,Oman,113",
+    "Street": "6126 way",
+    "State": "Muscat",
+    "Country": "Oman",
+    "Pincode": "116",
+    "ImagePath": "images/users/user2.png"
+  },
+  {
+    "Name": "LMN",
+    "Designation": "SSE",
+    "JoiningDate": "2019-01-06T17:16:43",
+    "FullAddress": "6127 way,Muscat,Oman,114",
+    "Street": "6127 way",
+    "State": "Muscat",
+    "Country": "Oman",
+    "Pincode": "117",
+    "ImagePath": "images/users/user3.png"
+  }
+]
